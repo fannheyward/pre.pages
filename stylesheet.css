@@ -1,0 +1,54 @@
+body {
+    background-color: #f6f6f6;
+    color: #555;
+    font-family: "Helvetica Neue", "Luxi Sans", "DejaVu Sans", Tahoma, "Hiragino Sans GB", STHeiti !important;
+}
+
+div.container {
+    margin-left: 2em;
+    width: 44em;
+}
+
+p {
+    line-height: 130%;
+    text-align: justify;
+}
+
+h1, h2, h3 {
+    color: #333;
+    text-shadow: rgba(255, 255, 255, 0.746094) 0px 1px 1px;
+    font-family: "Helvetica Neue", "Luxi Sans", "DejaVu Sans", Tahoma, "Hiragino Sans GB", STHeiti !important;
+}
+
+h1 {
+    margin-top: 3%;
+    font-size: 300%;
+}
+
+h2 {
+    margin-top: 1.5em;
+}
+
+a:link, a:visited {
+    color: #000;
+    text-decoration: none;
+    -webkit-transition: color 0.2s linear;
+}
+
+a:hover {
+    color: #999;
+}
+
+ul {
+    list-style: square;
+}
+
+ul li {
+    margin-bottom: 0.3em;
+}
+
+img {
+    -moz-box-shadow: 3px 3px 4px #000;
+    -webkit-box-shadow: 3px 3px 4px #000;
+    box-shadow: 3px 3px 4px #000;
+}
