@@ -47,6 +47,13 @@ ul li {
     margin-bottom: 0.3em;
 }
 
+.textHidden {
+    display:block;
+    overflow:hidden;
+    width:0;
+    height:0;
+}
+
 img {
     -moz-box-shadow: 3px 3px 4px #000;
     -webkit-box-shadow: 3px 3px 4px #000;
